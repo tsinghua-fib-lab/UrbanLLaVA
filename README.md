@@ -34,7 +34,8 @@ If you find this work helpful, please cite our paper.
 
 We appreciate the following GitHub repos a lot for their valuable code and efforts.
 
-- https://github.com/hiyouga/LLaMA-Factory for trainign
+- https://github.com/NVlabs/VILA for MLLM training
+- https://github.com/hiyouga/LLaMA-Factory for LLM training
 - https://github.com/tsinghua-fib-lab/CityGPT for training and benchmark
 - https://github.com/tsinghua-fib-lab/CityBench for benchmark
 - https://github.com/opendatalab/UrBench for benchmark
