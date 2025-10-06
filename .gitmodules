@@ -1,0 +1,6 @@
+[submodule "train/VILA"]
+	path = train/VILA
+	url = https://github.com/NVlabs/VILA.git
+[submodule "evaluate/VLMEvalKit"]
+	path = evaluate/VLMEvalKit
+	url = https://github.com/open-compass/VLMEvalKit.git
