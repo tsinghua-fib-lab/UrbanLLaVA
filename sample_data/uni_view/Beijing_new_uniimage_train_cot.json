@@ -1,0 +1,44 @@
+[
+  {
+    "id": "wuhuan_116.331_40.0268_12950048.589001171_4842098.760124235_116.31865642130327_40.01951625968615_09002200011706150946252712B_0.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.331_40.0268_12950048.589001171_4842098.760124235_116.31865642130327_40.01951625968615_09002200011706150946252712B_0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease tell me the detailed address of this street view image."
+      },
+      {
+        "from": "gpt",
+        "value": "According to the street view image, this scene is located in Beijing. The image captures a region featuring several notable institutions, including Tsinghua Zhiqing Middle School, Tsinghua University Affiliated Primary School, Beijing Sport University, Tsinghua University Affiliated School, Haidian District Second Experimental Primary School (Huiyuan Campus), a student area express delivery service station, and Shiya Art School. Based on my observations and knowledge of the area, the address is Qinghe Binhai Road, Qinghe Village, Haidian District, Beijing, 100084, China."
+      }
+    ]
+  },
+  {
+    "id": "wuhuan_116.3185_39.9943_12948657.08022591_4837393.976608217_116.305966712753_39.98708214941479_01002200001309200845351065L_270.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.3185_39.9943_12948657.08022591_4837393.976608217_116.305966712753_39.98708214941479_01002200001309200845351065L_270.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease tell me the detailed address of this street view image."
+      },
+      {
+        "from": "gpt",
+        "value": "According to the street view image, this scene is located in Beijing. The image captures a region featuring several notable establishments, including Wumei Supermarket, Nongyuan Restaurant, Peking University Souvenir Shop, the College of Mathematical Sciences, the Baijiao Square Fountain, the Baijiao Square Ticket Office, 3W Coffee Bar (Peking University Branch), BYY Internet Cafe, and Jiangbian Wharf Wushan Roast Whole Fish. Based on my observations and knowledge of the area, the address is Peking University, No. 5 Yiheyuan Road, Yanyuan, Haidian Town, Haidian District, Beijing, 100871, China."
+      }
+    ]
+  },
+  {
+    "id": "wuhuan_116.3805_40.0253_12955558.963751206_4841881.566555253_116.36823667077948_40.0177400389805_0900220012230103125942652AP_0.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.3805_40.0253_12955558.963751206_4841881.566555253_116.36823667077948_40.0177400389805_0900220012230103125942652AP_0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease tell me the detailed address of this street view image."
+      },
+      {
+        "from": "gpt",
+        "value": "According to the street view image, this is a scene from Beijing. The image captures a region characterized by several notable features, including the \"Snow Dance 2022,\" \"Brad DeLavitt,\" the National Speed Skating Hall ticket office, \"Seeking Courage,\" Beijing Normal University Chaoyang Affiliated School (Elementary Division), the Olympic Five Rings Observation Deck, and the Peace Column. Based on my observations and knowledge of the area, the address is Lincui Road, Chaoyang District, Beijing, 100192, China."
+      }
+    ]
+  }
+]

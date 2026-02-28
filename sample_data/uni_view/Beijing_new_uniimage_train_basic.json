@@ -1,0 +1,44 @@
+[
+  {
+    "id": "wuhuan_116.297_39.9893_12946263.685132459_4836670.36410068_116.28408243946195_39.98123002508091_0100220000130818100534768J3_270.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.297_39.9893_12946263.685132459_4836670.36410068_116.28408243946195_39.98123002508091_0100220000130818100534768J3_270.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease find the landmark in this street view image and possible surrounding POIs. If there is no landmark, please say 'None'."
+      },
+      {
+        "from": "gpt",
+        "value": "None"
+      }
+    ]
+  },
+  {
+    "id": "wuhuan_116.4075_39.9873_12958564.62270577_4836380.934046621_116.39488895030198_39.97953216467819_09002200121706241214467898O_270.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.4075_39.9873_12958564.62270577_4836380.934046621_116.39488895030198_39.97953216467819_09002200121706241214467898O_270.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the detailed address of the provided street view image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Tsinghua University, 30, Shuangqing Road, 清华园, Dongsheng, Haidian District, Beijing, 100084, China"
+      }
+    ]
+  },
+  {
+    "id": "wuhuan_116.3005_39.9893_12946653.307589533_4836670.36410068_116.28779933071222_39.981969239425446_09002200011601071306431857H_180.jpg",
+    "image": "images/Beijing/Imgs-Beijing_uniimage_new/wuhuan_116.3005_39.9893_12946653.307589533_4836670.36410068_116.28779933071222_39.981969239425446_09002200011601071306431857H_180.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is the detailed address of the provided street view image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Tsinghua University, 30, Shuangqing Road, 清华园, Dongsheng, Haidian District, Beijing, 100084, China"
+      }
+    ]
+  }
+]
